@@ -1,0 +1,386 @@
+using the five elements of user
+
+experience in game design this is based
+
+upon the book the elements of user
+
+experience by Jesse James Garrett so
+
+there are five planes or five elements
+
+to user experience that surfaced
+
+skeleton structure scope and strategy so
+
+we're going to go through each of these
+
+and then we're to look at how it applies
+
+to game design so surface is the images
+
+and text so these are some elements or
+
+superficial and games and others are
+
+interactive so you may have a door that
+
+you can go through and you may have a
+
+door you can't go through and that's
+
+really kind of the surface is what that
+
+looks like the images that exist there
+
+and so if you're looking at something
+
+like BioShock Infinite there may be
+
+doors that you can't go through you
+
+can't really interact with this thing
+
+over here but you may then be able to
+
+pick up these guns over here those are
+
+the images that we see it's very visual
+
+very concrete the skeleton is the next
+
+element that's the placement of the
+
+buttons controls and images so if the
+
+wireframe of the design and it includes
+
+the interface design and the navigation
+
+design 
+
+so the skeleton what it does is
+
+it optimizes arrangement for max effect 
+
+and efficiency it's also dictating what
+
+ visual elements are on the screen and 
+
+dictates how those interactions are
+
+presented and arranged it also suggests
+
+ a way to move around the space and how
+
+that content is presented so if you look
+
+at the skeleton here it's really that
+
+wireframe and this automatically then
+
+assumes the way that you're going to go
+
+through so if you are going through this
+
+image it guides you through here guides
+
+you through here you may stop off at
+
+that door but that's the idea of the
+
+wireframe and so it's that skeleton now
+
+based upon that navigation we know we're
+
+gonna put these types of images here we
+
+know we're gonna put this kind of ID
+
+over here that's how that skeleton
+
+it dictates the surface the next one is
+
+structure and structure is the placement
+
+of the interface eight elements and that
+
+includes the interaction design and the
+
+information architecture so interaction
+
+design is how the user interacts and how
+
+that product behaves in response so if I
+
+push a button how does it behave if I
+
+push this how does it behave if I go
+
+over here and move into this how does it
+
+behave information architecture is the
+
+arrangement of content elements and how
+
+they are organized to facilitate human
+
+understanding so how are those elements
+
+put together and how do we understand
+
+that so structure defines how the user
+
+got to where they are it also defines
+
+the navigational elements and it defines
+
+what exists in the UI so the HUD or the
+
+menu screens and it defines how
+
+everything fits together now in
+
+structure a lot of times that structure
+
+is based upon the narrative so what is
+
+the story that's happening in the game
+
+so in BioShock Infinite you have a story
+
+and that's the structure and it's
+
+dictating how you move through
+
+everything and that movement through
+
+everything is what dictates that images
+
+that go on top so if we look at this we
+
+have an idea of structure it tells a
+
+specific story it gives a specific
+
+feeling and based upon the character
+
+that we are it's going to make us feel a
+
+specific way it's going to affect our
+
+user experience if you look here we also
+
+have the way that it navigates us
+
+through so we know based upon the story
+
+that we need to go into the city and so
+
+we in BioShock Infinite you hit one of
+
+your triggers and it automatically then
+
+takes you into and shows you an arrow
+
+with saying hey this is how you do it if
+
+you also look up here you have the
+
+interface so the user interfaces here
+
+and that's part of the structures well
+
+same thing here we have our user
+
+interface and so you can see down here
+
+the different
+
+weapons that you have you have over here
+
+your salts you have up here then your
+
+life and the shield the scope is the
+
+fourth element and that defines the
+
+functional requirements and content
+
+requirements so the functional
+
+requirements is how features work with
+
+each other and how they interrelate so
+
+it's used to reach the final goal so
+
+what's the function what are we trying
+
+to get to in gaming the goal is the
+
+functional requirement dictating how
+
+items interrelate and setting up a
+
+potential outcome so in BioShock
+
+Infinite I have a specific goal I have a
+
+specific story I'm trying to figure out
+
+and that's the function and so my goal
+
+is the function the content requirements
+
+is the information we need to gather the
+
+value so in many games the character is
+
+content they provide the point of view
+
+they provide the stories they also
+
+provide the other elements to create the
+
+narrative we can't have a narrative
+
+without the character we can have a
+
+character without narrative them so if
+
+we look then at the characters that are
+
+happening in BioShock Infinite we have
+
+heads and tails we have Booker DeWitt
+
+and Elizabeth we have the Prophet and
+
+they all then carry specific values it
+
+carries specific functions and carry
+
+specific goals and finally the fifth
+
+element is the strategy so the reason
+
+for the product who is it for and who is
+
+the user and why do people want it now
+
+in gaming that is really the audience
+
+and so the audience we have to go back
+
+for strategy and ask why do we play
+
+video games if you look at Parag comm it
+
+has a video game user survey and they
+
+found the top reasons why people play
+
+games our immersion they're looking for
+
+new worlds they're looking for diverse
+
+gameplay and multiple mechanics they
+
+want to relive history they want some
+
+kind of freedom to do whatever they want
+
+an environment and they'd like to
+
+exploit and you know go through some big
+
+thing and have this big thing happened
+
+now looking at these five elements each
+
+element lays on top of one another and
+
+at the very top we have surface and at
+
+the very bottom we have strategy as we
+
+move from the bottom to the top we come
+
+become more concrete as we move from the
+
+top to the bottom we become more
+
+abstract now each plane is then
+
+dependent on the plane below it if you
+
+don't have character you don't have a
+
+narrative if you don't have a narrative
+
+you don't have a skeleton if you don't
+
+have a skeleton you don't have anything
+
+to put in it also if they don't align it
+
+won't equal the satisfaction so if the
+
+structure and the character don't match
+
+up you're not going to have satisfaction
+
+so the five elements are highly
+
+dependent on one another so how do we
+
+apply this to games well games are
+
+experiences and as we move from each
+
+plane from the most abstract to the
+
+concrete we have then at the very bottom
+
+of that most abstract the user and why
+
+we have the game then we have the seed
+
+which is the central concept what is
+
+what are we trying to say in this game
+
+what is the point of this game and that
+
+then dictates the genre the genre then
+
+usually dictates the character and
+
+reaches our expectations that character
+
+then leads into story the story then
+
+dictates the gameplay usually sometimes
+
+it's the other way around that gameplay
+
+then dictates the controls the controls
+
+didn't lead to the user interface and
+
+that leads to the look and style of the
+
+game now if you want to look at this
+
+further you can look at Garrett's book
+
+the elements of user experience and you
+
+can also look at the pewag data report
+
+site to go further and that is using the
+
+five elements of user experience and
+
+game design
+
